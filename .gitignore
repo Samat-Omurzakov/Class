@@ -1,0 +1,7 @@
+.env
+myProject
+db.sqlite3
+.idea
+static
+media
+db.json
